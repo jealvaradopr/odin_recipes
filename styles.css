@@ -1,0 +1,11 @@
+p {
+    color: greenyellow;
+}
+
+* {
+    background-color: rgb(0, 174, 255);
+}
+
+.food {
+    font-weight: bold;
+}
